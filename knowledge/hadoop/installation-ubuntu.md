@@ -9,7 +9,7 @@ $ sudo apt update
 $ sudo apt install openjdk-11-jdk
 ```
 
-## ~/.bashrcStep 2 - Create a Hadoop User
+## Step 2 - Create a Hadoop User
 
 ```bash
 $ sudo adduser hadoop
