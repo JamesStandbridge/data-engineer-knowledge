@@ -48,6 +48,12 @@ Append the below lines to file. We can find JAVA_HOME location by running :
 $ dirname $(dirname $(readlink -f $(which java)))
 ```
 
+Don't forgot the source the bash file in order to apply changes :
+
+```bash
+$ source ~/.bashrc
+```
+
 The lines : 
 
 ```bash
